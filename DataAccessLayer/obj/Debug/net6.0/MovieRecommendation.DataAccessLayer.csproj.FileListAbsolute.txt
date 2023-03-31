@@ -1,0 +1,17 @@
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\bin\Debug\net6.0\MovieRecommendation.DataAccessLayer.deps.json
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\bin\Debug\net6.0\MovieRecommendation.DataAccessLayer.runtimeconfig.json
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\bin\Debug\net6.0\MovieRecommendation.DataAccessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\bin\Debug\net6.0\MovieRecommendation.DataAccessLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.AssemblyInfo.cs
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.csproj.CopyComplete
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\refint\MovieRecommendation.DataAccessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\MovieRecommendation.DataAccessLayer.genruntimeconfig.cache
+C:\Users\AR\source\repos\MovieRecommendation\DataAccessLayer\obj\Debug\net6.0\ref\MovieRecommendation.DataAccessLayer.dll

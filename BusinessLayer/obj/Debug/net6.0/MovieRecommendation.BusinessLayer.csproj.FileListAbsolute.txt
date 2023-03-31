@@ -1,0 +1,17 @@
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.BusinessLayer.deps.json
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.BusinessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.BusinessLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.DataAccessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.DataAccessLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.AssemblyInfo.cs
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.csproj.CopyComplete
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\refint\MovieRecommendation.BusinessLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\MovieRecommendation.BusinessLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\BusinessLayer\obj\Debug\net6.0\ref\MovieRecommendation.BusinessLayer.dll

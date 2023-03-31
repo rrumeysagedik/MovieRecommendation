@@ -1,0 +1,12 @@
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.deps.json
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\bin\Debug\net6.0\MovieRecommendation.EntityLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.AssemblyInfo.cs
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\refint\MovieRecommendation.EntityLayer.dll
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\MovieRecommendation.EntityLayer.pdb
+C:\Users\AR\source\repos\MovieRecommendation\EntityLayer\obj\Debug\net6.0\ref\MovieRecommendation.EntityLayer.dll
